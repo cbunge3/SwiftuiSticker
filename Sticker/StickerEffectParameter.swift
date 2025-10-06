@@ -1,7 +1,7 @@
 // StickerEffectParameter.swift
 // Sticker
 //
-// Created by Benjamin Pisano on 05/11/2024.
+
 //
 import SwiftUI
 extension EnvironmentValues {
