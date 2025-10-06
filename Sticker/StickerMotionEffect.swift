@@ -6,10 +6,7 @@
 //
 
 
-// StickerMotionEffect.swift
-// Sticker
-//
-// Created by Benjamin Pisano on 03/11/2024.
+
 //
 import SwiftUI
 public protocol StickerMotionEffect: ViewModifier { }
