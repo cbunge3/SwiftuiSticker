@@ -6,10 +6,6 @@
 //
 
 
-// WithViewSizeViewModifier.swift
-// Sticker
-//
-// Created by Benjamin Pisano on 03/11/2024.
 //
 import SwiftUI
 struct WithSizeViewModifier<ModifiedContent: View>: ViewModifier {
