@@ -5,12 +5,6 @@
 //  Created by Cory Bunge on 9/14/25.
 //
 
-
-// AccelerometerAttitude.swift
-// Sticker
-//
-// Created by Benjamin Pisano on 15/11/2024.
-//
 import Foundation
 import CoreMotion
 struct AccelerometerAttitude: Equatable, Hashable, Sendable {
