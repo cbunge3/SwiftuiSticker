@@ -5,11 +5,6 @@
 //  Created by Cory Bunge on 9/14/25.
 //
 
-
-// StickerShaderUpdater.swift
-// Sticker
-//
-// Created by Benjamin Pisano on 03/11/2024.
 //
 import SwiftUI
 import Observation
