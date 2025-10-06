@@ -1,7 +1,7 @@
 // ReflectionShader.metal
 // Sticker
 //
-// Created by Benjamin Pisano on 31/10/2024.
+
 //
 #include <metal_stdlib>
 #include <SwiftUI/SwiftUI_Metal.h>
