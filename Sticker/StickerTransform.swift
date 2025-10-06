@@ -6,11 +6,6 @@
 //
 
 
-// StickerTransform.swift
-// Sticker
-//
-// Created by Benjamin Pisano on 03/11/2024.
-//
 import SwiftUI
 public struct StickerTransform: Equatable, Hashable, Sendable {
     public static let neutral: StickerTransform = .init(x: 0.5, y: 0.5)
