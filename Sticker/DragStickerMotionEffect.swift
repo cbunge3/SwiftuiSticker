@@ -1,7 +1,7 @@
 // DragStickerMotionEffect.swift
 // Sticker
 //
-// Created by Benjamin Pisano on 13/11/2024.
+
 //
 import SwiftUI
 
